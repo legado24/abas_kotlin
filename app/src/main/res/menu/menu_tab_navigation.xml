@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/goHome"
+        android:icon="@drawable/icon_dash_home"
+        android:title="Inicio" />
+
+
+    <item
+        android:id="@+id/goCustomer"
+         android:icon="@drawable/list_customer"
+        android:title="Clientes" />
+
+
+</menu>
